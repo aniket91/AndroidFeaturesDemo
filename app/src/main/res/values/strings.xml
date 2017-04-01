@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Features Demo</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_log_in">Login</string>
+    <string name="passwordToggleContentDescription">Toggle password visibility</string>
+
+
+</resources>
