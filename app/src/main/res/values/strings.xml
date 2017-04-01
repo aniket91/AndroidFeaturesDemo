@@ -7,4 +7,13 @@
     <string name="passwordToggleContentDescription">Toggle password visibility</string>
 
 
+    <string name="error_username">Invalid Username</string>
+    <string name="error_email">Invalid Email</string>
+    <string name="error_password">Invalid password</string>
+
+    <string name="welcome_message">Welcome home sir!</string>
+    <string name="error_message">Woops! Check your inputs.</string>
+
+
+
 </resources>
